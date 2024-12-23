@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "ecba3a71fffc2d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "53f533f118af7498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0d12a6a29b6efea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Linux运维常用命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0.Linux运维常用命令"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8691e9542c43569",
+    "type": "split",
+    "children": [
+      {
+        "id": "c314f7008c295be9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e82721b5447e2a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "37af9c85304fa1a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "42ad7860cc5b2d80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "b952df0a0c0e5a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "38cc3752802abbf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "196af99ea77228d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "e1087e91f391a4b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.Linux操作系统.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1.Linux操作系统 的出链列表"
+            }
+          },
+          {
+            "id": "d9c1450ad58b2406",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9b6da2ab8465b864",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.Linux运维常用命令.md"
+              },
+              "icon": "lucide-list",
+              "title": "0.Linux运维常用命令 的大纲"
+            }
+          },
+          {
+            "id": "6b77b6d177a9cf49",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f0d12a6a29b6efea",
+  "lastOpenFiles": [
+    "Linux运维常用命令.assets/图片10.png",
+    "Linux运维常用命令.assets/图片9.png",
+    "Linux运维常用命令.assets/图片8.png",
+    "Linux运维常用命令.assets/图片7.png",
+    "Linux运维常用命令.assets/图片6.png",
+    "Linux运维常用命令.assets/图片5.png",
+    "Linux运维常用命令.assets/图片4.png",
+    "Linux运维常用命令.assets/图片3.png",
+    "Linux运维常用命令.assets/图片2.png",
+    "Linux运维常用命令.assets/图片1.png",
+    "Linux运维常用命令.assets",
+    "新建文件夹",
+    "8.监控Web和数据库的企业案例.md",
+    "7.Shell函数.md",
+    "1.Linux操作系统.md",
+    "8.监控Web和数据库的企业案例.assets/图片.png",
+    "8.监控Web和数据库的企业案例.assets",
+    "0.Linux运维常用命令.md",
+    "3.Shell变量进阶.md",
+    "4.Shell运算符.md",
+    "2.Shell变量.md",
+    "1.Shell概述.md",
+    "5.选择语句.md",
+    "6.循环语句.md",
+    "未命名.canvas",
+    "2024-12-19.md",
+    "Excalidraw/Drawing 2024-11-24 16.54.13.excalidraw.md",
+    "Excalidraw"
+  ]
+}
