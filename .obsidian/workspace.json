@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Linux运维常用命令.md",
+                "file": "1.Linux操作系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.Linux运维常用命令"
+              "title": "1.Linux操作系统"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Linux运维常用命令.md"
+                "file": "1.Linux操作系统.md"
               },
               "icon": "lucide-list",
-              "title": "0.Linux运维常用命令 的大纲"
+              "title": "1.Linux操作系统 的大纲"
             }
           },
           {
@@ -153,14 +153,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "20157328e0a6945a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,12 +179,24 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0d12a6a29b6efea",
+  "active": "9b6da2ab8465b864",
   "lastOpenFiles": [
+    "0.Linux运维常用命令.md",
     "Linux运维常用命令.assets/图片10.png",
+    "1.Linux操作系统.md",
+    "1.Shell概述.md",
+    "7.Shell函数.md",
+    "3.Shell变量进阶.md",
+    "2.Shell变量.md",
+    "5.选择语句.md",
+    "4.Shell运算符.md",
+    "监控MySQL主从复制状态.assets/image-20221114165058110.png",
+    "8.监控Web和数据库的企业案例.assets/图片.png",
     "Linux运维常用命令.assets/图片9.png",
     "Linux运维常用命令.assets/图片8.png",
     "Linux运维常用命令.assets/图片7.png",
@@ -183,21 +204,10 @@
     "Linux运维常用命令.assets/图片5.png",
     "Linux运维常用命令.assets/图片4.png",
     "Linux运维常用命令.assets/图片3.png",
-    "Linux运维常用命令.assets/图片2.png",
-    "Linux运维常用命令.assets/图片1.png",
     "Linux运维常用命令.assets",
     "新建文件夹",
     "8.监控Web和数据库的企业案例.md",
-    "7.Shell函数.md",
-    "1.Linux操作系统.md",
-    "8.监控Web和数据库的企业案例.assets/图片.png",
     "8.监控Web和数据库的企业案例.assets",
-    "0.Linux运维常用命令.md",
-    "3.Shell变量进阶.md",
-    "4.Shell运算符.md",
-    "2.Shell变量.md",
-    "1.Shell概述.md",
-    "5.选择语句.md",
     "6.循环语句.md",
     "未命名.canvas",
     "2024-12-19.md",
